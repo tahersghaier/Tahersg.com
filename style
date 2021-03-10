@@ -1,0 +1,33 @@
+	 <body>{
+      margin: 0;
+}
+
+#banner1 {
+    display: block;
+    backgroung-color: #7fffbb;
+    height: 50px;
+    width: 100%;
+}
+
+#menu {
+	width: 100%;
+	height: 100px;
+	position: relative;
+	backgroung-color: #27be6e
+}
+
+#menu ul {
+	float: left;
+}
+
+#menu ul il {
+	float: left;
+}
+
+#banner2 {
+    display: block;
+    backgroung-color: #7fffbb;
+    height: 50px;
+    width: 100%;
+}
+</body>
